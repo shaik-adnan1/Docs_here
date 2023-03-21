@@ -27,14 +27,17 @@ Note: the period after add represents "add all untracked files". you can also ad
 -> Since the untracked files are now added, they are marked with green "A"
 
 Extra => 'git reset .'
+ 
 ----- you can reset the added files back to untracked, if there weren't any permenant changes made to the files!
 
 4 => 'git commit -m "<commit messege>"'
+ 
 ----- Now you can commit the added files that no longer taking changes currently, with  the above command ! 4 ! 
 Note: the commit messege can be anything that describes the commiting files.. 
 -> the "-m" means messege!! 
 
 Extra => 'git log'
+ 
 ----- this will give the ID and basic info about the last commit!!
 Note: after commiting if any changes are made to the files before pushing them, That file will be marked with an "M" which means modified!
 
@@ -57,7 +60,11 @@ Getting back to terminal!!
   ----- Congragulations your repo has been established with the local working directory!!🎉
   -- Now that we did it, let's celebrate by moving on to the next stepp
 
-
+7 => 'git push origin master/main(to which branch the changes need to be pushed)'
+ ---- This will push you code along with the changes to the connected repository!!
+ 
+ 
+HAPPY CODING
 
 
 
