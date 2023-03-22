@@ -56,7 +56,7 @@ Getting back to terminal!!
   ----- This will show you which remote repository's linked to the local project,
         For now it should return you nothing, since we haven't linked any repo yett!!
 
-6 => 'git remote add origin <url to the github repo>'
+6 => 'git remote add origin "url to the github repo"'
   ----- Congragulations your repo has been established with the local working directory!!🎉
   -- Now that we did it, let's celebrate by moving on to the next stepp
 
