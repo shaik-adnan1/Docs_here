@@ -4,6 +4,7 @@ I hope it is finally time to create a simple yet useful process documentation.
 As time goes on, I'll add steps for pulling requests, merging, and other related tasks.
 
 Let's get this party started!
+![image](https://user-images.githubusercontent.com/121503022/230274526-7cba84d2-a638-4cf7-816a-cfa9df1e6a69.png)
 
 😶‍🌫️
 
