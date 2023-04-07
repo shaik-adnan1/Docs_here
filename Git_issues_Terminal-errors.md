@@ -4,12 +4,32 @@ Here are some problems i faced while pushing code to git hub along with thier so
  ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/shaik-adnan1/flutter_expenses_app.git
 
+![image](https://user-images.githubusercontent.com/121503022/230669461-e56be3ef-833d-4991-b953-31e3ebf53462.png)
 
 
 This error is basically thrown at you beacuse, a push has already been made on the master branch and 
 the commit you are trying to make is "behind".
 
-As in the error messege you have to fetch first and
-then create a pull, add the files, commit them and then push to the master branch
+What that means is that the files in your github repository and working local directory aren't matching!!
 
+
+SOLUTION: 
+
+=> First fetch the origin 
+
+cmd: <<<< git fetch origin main >>>>>
+
+![image](https://user-images.githubusercontent.com/121503022/230669982-6fab84e0-b5be-4156-a154-cac77708ac57.png)
+
+=> then merge the local main branch with the remote branch
+
+cmd: <<<<< git merger origin/main --allow-unrelated-histories
+
+![image](https://user-images.githubusercontent.com/121503022/230670858-7bc5fe62-3745-40b1-ba4e-554b1ff25a33.png)
+
+Now you can push your code to the github repo as usually
+
+cmd: <<<<< git push origin main >>>>
+
+HAPPY CODING
 
