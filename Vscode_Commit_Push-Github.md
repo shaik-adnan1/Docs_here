@@ -1,3 +1,8 @@
+GIT COMMANDS
+
+I actually wanted to change this file to GIT COMMANDS rather than "git push commands" but the file name is not changing so i'll continue this as it is.
+ However i'll add UPPERCASE title at the start of this document.
+
 Hello there, after forgetting many times on how to push new folders and files into github directly from the terminal using Vscode. 🥲😂
 I hope it is finally time to create a simple yet useful process documentation.
 
@@ -67,10 +72,8 @@ Getting back to terminal!!
  
 HAPPY CODING
 
-
-
-
-
+ ==> git branch 
+ -- gives you the current branch you are in.
 
 
 
