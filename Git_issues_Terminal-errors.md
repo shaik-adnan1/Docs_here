@@ -12,7 +12,7 @@ the commit you are trying to make is "behind".
 
 One of the cause maybe that 
 --- There exists a README file in the repo that was added during repository creation and a README file in the folder you want to commit 
---- these clash causing the following error
+--- these README files clash causing the following error
 
 What that means is that the files in your github repository and working local directory aren't matching!!
 
