@@ -68,7 +68,9 @@ Getting back to terminal!!
 
 7 => 'git push origin master/main(to which branch the changes need to be pushed)'
  ---- This will push you code along with the changes to the connected repository!!
- 
+
+8 => 'git remote set-url origin new.git.url/here'
+so, it will update your repo address. 
  
 HAPPY CODING
 
