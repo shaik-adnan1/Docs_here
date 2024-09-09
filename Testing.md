@@ -5,7 +5,7 @@
 https://github.com/sapegin/jest-cheat-sheet
 ```
 
-`` Tests can be Grouped into 3 categories ``
+`` Tests can be Grou ped into 3 categories ``
 
 ```
 1. Unit Testing
