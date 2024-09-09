@@ -43,6 +43,6 @@ whether they integrate well together
 ## ``` Extras ```
 
 - In the Package.js file running npm jest runs the test files ```.test.js ``` in the directory.
-- ![test Script in Package.json](./test_package_scripts.png);
+- ![test Script in Package.json](./images/test_package_scripts.png);
 - In order to run the test live rather than executing the same command ``` npm test ```
 - we can modify the npm test command to continuously watch files for changes and test
