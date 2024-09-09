@@ -1,5 +1,10 @@
 # ```Testing Using Jest```
 
+## ``` JEST Cheat Sheet ```
+```
+https://github.com/sapegin/jest-cheat-sheet
+```
+
 `` Tests can be Grouped into 3 categories ``
 
 ```
@@ -35,10 +40,12 @@ whether they integrate well together
   
 - There's more deaf time involved in thinking them out and writing them compared to unit tests which are much faster to run.
   
+  
 ## `` Automation Tests ``
 
 - End-End testing. 
 - Automation tests are UI tests that are always running in the browser
+  
 
 ## ``` Extras ```
 
@@ -46,3 +53,13 @@ whether they integrate well together
 - ![test Script in Package.json](./images/test_package_scripts.png);
 - In order to run the test live rather than executing the same command ``` npm test ```
 - we can modify the npm test command to continuously watch files for changes and test
+```
+"test": "jest --watch * .js",
+```
+- The *.js will watch for all the javascript files for changes, which can be changed to anything else.
+
+### ``` Apis for testing ```
+- Star wars Api 
+```
+http://swapi.py4e.com
+```
