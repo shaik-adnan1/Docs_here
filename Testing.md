@@ -1,11 +1,16 @@
 # ```Testing Using Jest```
+# `` Testing In React ``
+
+```
+[text](https://testing-library.com/docs/react-testing-library/intro/)
+```
 
 ## ``` JEST Cheat Sheet ```
 ```
 https://github.com/sapegin/jest-cheat-sheet
 ```
 
-`` Tests can be Grou ped into 3 categories ``
+`` Tests can be Grouped into 3 categories ``
 
 ```
 1. Unit Testing
