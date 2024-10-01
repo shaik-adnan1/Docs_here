@@ -35,5 +35,11 @@ Now you can push your code to the github repo as usually
 
 cmd: <<<<< git push origin main >>>>
 
+# command to revet the commit 
+
+```
+git reset --soft HEAD~1
+```
+
 HAPPY CODING
 
